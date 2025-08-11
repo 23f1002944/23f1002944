@@ -37,7 +37,7 @@
 ## 💻 Tech Stack:
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vue,postgres,flask,postman,java,git,bash,linux,photoshop,aftereffects,youtube,lightroom,excel&perline=11" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python,vue,postgres,flask,postman,java,git,bash,linux,photoshop,aftereffects,youtube,lightroom,excel&perline=11" alt="Tech stack icons" />
 </div>
 
 <br>

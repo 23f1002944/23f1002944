@@ -17,7 +17,7 @@
 - 🎓 I'm a Student, Fitness Coach, Content Producer
 - 🔭 I’m currently working on AI driven solutions for fitness/habit building
 - 🌱 I’m currently learning pandas, numpy, scikit, matplotlib, tensorflow
-- 🥅 2025 Goals: get to 10% bf, complete classical ML, complete my autobiographical analysis, setup my own app for coaching biz
+- 🥅 2025 Goals: get to 10% bf, complete classical ML, setup my own app for coaching biz
 
 <br>
 
